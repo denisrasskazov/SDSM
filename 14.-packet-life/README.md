@@ -4,7 +4,7 @@
 A forwarding entity always forwards packets in per-flow order to  
 zero, one or more of the forwarding entity’s own transmit interfaces  
 and never forwards a packet to the packet’s own receive interface.  
-Brian Petersen. Hardware Designed Network
+Brian Petersen. Hardware-Defined Network
 {% endhint %}
 
 Одно из удивительнейших достижений современности — это то, как, сидя в Норильске, человек может чатиться со своим другом в Таиланде, параллельно покупать билет на вечерний самолёт к нему, расплачиваясь банковской картой, в то время, как где-то в Штатах на виртуалочке его бот совершает сделки на бирже со скоростью, с которой его сын переключает вкладки, когда отец входит в комнату.  
